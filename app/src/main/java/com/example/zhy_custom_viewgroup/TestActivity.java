@@ -21,5 +21,8 @@ public class TestActivity extends Activity {
         Log.e(TAG, "onCreate: 1");
 
         Log.w(TAG, "onCreate: 1");
+
+
+        Log.d(TAG, "onCreate: sdfdsfdsfsd");
     }
 }
